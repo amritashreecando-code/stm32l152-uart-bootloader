@@ -3,7 +3,7 @@
 A custom bootloader for the **STM32L152RE (NUCLEO-L152RE)**, written in bare-metal C with no HAL and no CMSIS.
 It receives an application over **UART** from a Python script, writes it into flash, and then jumps to it.
 
-Demo: *(add your LinkedIn or video link here)*
+Demo video :[watch it on LinkedIn] https://lnkd.in/p/dkJTd3Ea
 
 ---
 
